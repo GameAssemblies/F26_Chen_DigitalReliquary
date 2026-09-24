@@ -1,4 +1,4 @@
 # yc2925_Game_Assemblies-
 Reto Chen's repository for Game Assemblies Lab and Independent Studies
 
-[Week 4 Log](weekly-log/week-4.md)
+[Week 4 Log!](weekly-log/week-4.md)
