@@ -7,7 +7,10 @@
 - How to translate sacred qualities of architectural/visual arts to the digital space?
 - Does an interactive environment need to respond immediately?
 
+![](../Images/2a7c296e22e87ac780bff2840a250d24%201.jpg)
 
+![](../Images/aeeEKsBOoF08xLgN_LUXaltasdef_50%201.avif)
+![](../Images/456446debc158b7c10fb14875e178d0d%201.jpg)
 
 ![](../Images/ffa13c517654c50029cda45cc88d441a%201.jpg)
 
