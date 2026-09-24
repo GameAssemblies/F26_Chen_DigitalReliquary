@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/Research Question.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research Question"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/Research Question.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doc/Research Question.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc/Research Question.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,10 @@
   },
   "active": "e5dd920679f91405",
   "lastOpenFiles": [
+    "weekly-log/week-5.md",
+    "README.md",
+    "weekly-log/week-4.md",
+    "doc/Research Question.md",
     "Images/2a7c296e22e87ac780bff2840a250d24 1.jpg",
     "Images/aeeEKsBOoF08xLgN_LUXaltasdef_50 1.avif",
     "Images/456446debc158b7c10fb14875e178d0d 1.jpg",
@@ -200,10 +204,6 @@
     "Images/0516ff61907ed7a53123f2a95367b2e7.jpg",
     "Images/0921-2.png",
     "Images/0921-3.png",
-    "Images/1b852836d4481ad58f7e10191807875b.jpg",
-    "doc/Research Question.md",
-    "weekly-log/week-5.md",
-    "weekly-log/week-4.md",
     "doc"
   ]
 }
