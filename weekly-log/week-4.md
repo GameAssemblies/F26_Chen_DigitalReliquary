@@ -1,4 +1,4 @@
-# GenPT-Live in TouchDesigner — Monday Documentation Log
+# GenPT-Live in TouchDesigner — 0921 Documentation Log
 
 ![0921 Screenshot](../Images/0921-1.png)
 

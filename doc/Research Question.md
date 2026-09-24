@@ -8,8 +8,13 @@
 - Does an interactive environment need to respond immediately?
 
 
-![[aeeEKsBOoF08xLgN_LUXaltasdef_50.avif]]![[456446debc158b7c10fb14875e178d0d.jpg]]
 
-![[2a7c296e22e87ac780bff2840a250d24.jpg]]
 
-![[ffa13c517654c50029cda45cc88d441a.jpg]]
+
+![](../2a7c296e22e87ac780bff2840a250d24%201.jpg)
+
+![](../456446debc158b7c10fb14875e178d0d%201.jpg)
+
+![](../aeeEKsBOoF08xLgN_LUXaltasdef_50%202.avif)
+
+![](../ffa13c517654c50029cda45cc88d441a%201.jpg)
