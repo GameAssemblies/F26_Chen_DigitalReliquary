@@ -1,6 +1,7 @@
 {
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Images"
+  "newFileLocation": "current",
+  "newFileFolderPath": "Images",
+  "attachmentFolderPath": "Images"
 }
