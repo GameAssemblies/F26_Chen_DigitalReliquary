@@ -1,4 +1,4 @@
-# GenPT-Live in TouchDesigner — 0921 Documentation Log
+[Research Question](../doc/Research%20Question.md)# GenPT-Live in TouchDesigner — 0921 Documentation Log
 
 ![0921 Screenshot](../Images/0921-1.png)
 
@@ -114,3 +114,6 @@ source-derived stretched pixel rectangles
 
 The project was inspected repeatedly during the build. The final output was checked for its resolution, opacity, and TouchDesigner node errors. Changes made during this session were kept in the open project unless explicitly saved by the user.
 
+------------
+
+[New Research Question](../doc/Research%20Question.md)
