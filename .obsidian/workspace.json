@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-log/week-4.md",
+                "file": "weekly-log/week-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week-4"
+              "title": "week-5"
             }
           }
         ]
@@ -190,9 +190,16 @@
   },
   "active": "e5dd920679f91405",
   "lastOpenFiles": [
+    "Images/01_td_workspace.png",
+    "Images/02_final_artwork 1.png",
+    "Images/04_gesture_preview.png",
+    "Images/03_ai_source.png",
+    "Images/02_final_artwork.png",
     "weekly-log/week-5.md",
-    "weekly-log/week-4.md",
+    "weekly-log/week-5.md",
+    "Images/Week_5_GenPT_Progress_2026-09-30.md",
     "README.md",
+    "weekly-log/week-4.md",
     "doc/Research Question.md",
     "Images/2a7c296e22e87ac780bff2840a250d24 1.jpg",
     "Images/aeeEKsBOoF08xLgN_LUXaltasdef_50 1.avif",
@@ -200,10 +207,6 @@
     "Images/ffa13c517654c50029cda45cc88d441a 1.jpg",
     "Images/aeeEKsBOoF08xLgN_LUXaltasdef_50.avif",
     "Images/456446debc158b7c10fb14875e178d0d.jpg",
-    "Images/b2252b31321f133e13aab51d8b2a70f7.jpg",
-    "Images/0516ff61907ed7a53123f2a95367b2e7.jpg",
-    "Images/0921-2.png",
-    "Images/0921-3.png",
     "doc"
   ]
 }

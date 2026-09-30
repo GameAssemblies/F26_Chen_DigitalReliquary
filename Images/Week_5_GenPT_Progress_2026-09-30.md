@@ -11,7 +11,7 @@ This week’s session extended the existing GenPT-inspired feedback and pixel-we
 
 The main progress was in how the system is used: a participant can initiate image creation through a physical action, while TouchDesigner continues to blend, stretch, and remember the resulting images. We refined the interaction together through testing, moving from pinch to prayer to fist as recognition problems became apparent.
 
-![](../Images/01_td_workspace.png)
+![TouchDesigner workspace and final Hand Gesture controls](/Users/retochen/Documents/Codex/2026-09-21/touchdesigner-plugin-touchdesigner-touchdesigner-openai-check-2/outputs/week5_assets/01_td_workspace.png)
 
 *Figure 1. The current workspace, existing feedback/weaving network, and Hand Gesture controls. The selected subject is “Celestial ceiling painting.” Preview and generation triggering were both switched off at capture time.*
 
@@ -57,8 +57,8 @@ Several original image paths were missing and produced warnings and a black init
 The first Script TOP upload approach also produced a black output. We corrected it by uploading normalized floating-point pixel arrays directly outside the Script TOP’s cook callback. OpenCV handles image encoding, decoding, and fitting; Pillow was unavailable in TouchDesigner’s Python environment.
 
 Returned images stay in memory. We did not create a generated-image archive during development. The PNGs accompanying this document were explicitly exported later for documentation.
-![](../Images/03_ai_source.png)
 
+![Generator 1 image before the feedback and weaving effects](/Users/retochen/Documents/Codex/2026-09-21/touchdesigner-plugin-touchdesigner-touchdesigner-openai-check-2/outputs/week5_assets/03_ai_source.png)
 
 *Figure 2. Generator 1’s current source: the selected “Celestial ceiling painting” prompt produced a gold-framed celestial composition. This capture shows the normalized source TOP before the downstream feedback/weaving chain.*
 
@@ -135,8 +135,7 @@ This lets the participant distinguish “the camera sees me” from “the syste
 
 The footage is no longer held until inference finishes. Markers still update at the detector’s rate, and ordinary camera/display latency remains. We did not establish a measured zero-latency performance claim.
 
-![](../Images/04_gesture_preview.png)
-
+![Webcam preview with live status overlay](/Users/retochen/Documents/Codex/2026-09-21/touchdesigner-plugin-touchdesigner-touchdesigner-openai-check-2/outputs/week5_assets/04_gesture_preview.png)
 
 *Figure 3. Captured webcam preview with the status banner, hand count, request count, and progress-bar area. At this exact frame the detector reported zero hands, so no landmark dots are visible. The capture documents the overlay and also demonstrates that a hand near the face is not guaranteed to be recognized.*
 
@@ -178,8 +177,8 @@ Mac webcam
 ```
 
 Generator 2 remains available as another image source with its own prompt and manual controls. The final gesture no longer alternates between it and generator 1.
-![](../Images/02_final_artwork%201.png)
 
+![Final artwork with feedback and woven stretched pixels](/Users/retochen/Documents/Codex/2026-09-21/touchdesigner-plugin-touchdesigner-touchdesigner-openai-check-2/outputs/week5_assets/02_final_artwork.png)
 
 *Figure 4. Final TouchDesigner output captured during documentation. The celestial source has been layered, warped, and interrupted by horizontal stretched-pixel rectangles. Comparing Figures 2 and 4 shows the contribution of the native effects beyond the AI-generated source.*
 
