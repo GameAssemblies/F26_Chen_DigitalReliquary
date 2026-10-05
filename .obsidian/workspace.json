@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "week-5"
             }
+          },
+          {
+            "id": "53d701c66436fed6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,25 +199,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5dd920679f91405",
+  "active": "53d701c66436fed6",
   "lastOpenFiles": [
+    "weekly-log/week-5.md",
+    "weekly-log/week-4.md",
     "Images/01_td_workspace.png",
     "Images/02_final_artwork 1.png",
     "Images/04_gesture_preview.png",
     "Images/03_ai_source.png",
     "Images/02_final_artwork.png",
-    "weekly-log/week-5.md",
-    "weekly-log/week-5.md",
     "Images/Week_5_GenPT_Progress_2026-09-30.md",
     "README.md",
-    "weekly-log/week-4.md",
     "doc/Research Question.md",
     "Images/2a7c296e22e87ac780bff2840a250d24 1.jpg",
     "Images/aeeEKsBOoF08xLgN_LUXaltasdef_50 1.avif",
     "Images/456446debc158b7c10fb14875e178d0d 1.jpg",
     "Images/ffa13c517654c50029cda45cc88d441a 1.jpg",
     "Images/aeeEKsBOoF08xLgN_LUXaltasdef_50.avif",
-    "Images/456446debc158b7c10fb14875e178d0d.jpg",
     "doc"
   ]
 }
