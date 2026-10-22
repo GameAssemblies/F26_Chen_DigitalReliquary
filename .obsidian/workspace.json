@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-log/week-7.md",
+                "file": "weekly-log/week-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week-7"
+              "title": "week-8"
             }
           }
         ],
@@ -206,6 +206,8 @@
   "active": "53d701c66436fed6",
   "lastOpenFiles": [
     "weekly-log/week-5.md",
+    "weekly-log/week-8.md",
+    "Images/Screenshot 2026-10-21 at 5.55.27 PM.png",
     "weekly-log/week-7.md",
     "Images/documentation_assets/05_current_rune_integration.png",
     "Images/documentation_assets/04_ai_manifestation_integration.png",
@@ -219,7 +221,6 @@
     "Images/02_final_artwork 1.png",
     "Images/04_gesture_preview.png",
     "Images/03_ai_source.png",
-    "Images/02_final_artwork.png",
     "Images/Week_5_GenPT_Progress_2026-09-30.md",
     "README.md",
     "doc/Research Question.md",
